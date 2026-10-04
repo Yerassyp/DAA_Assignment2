@@ -1,5 +1,9 @@
 # DAA Assignment 2 - Data Structures
 
+## GitHub Repository
+
+https://github.com/Yerassyp/DAA_Assignment2
+
 This project was created for Assignment 2 of the Design and Analysis of Algorithms course.
 
 It contains three data structures implemented from scratch using primitive `int` values:
