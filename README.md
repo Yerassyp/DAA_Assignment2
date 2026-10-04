@@ -1,8 +1,7 @@
 # DAA Assignment 2 - Data Structures
 
-## GitHub Repository
+#### GitHub Repository: https://github.com/Yerassyp/DAA_Assignment2
 
-https://github.com/Yerassyp/DAA_Assignment2
 
 This project was created for Assignment 2 of the Design and Analysis of Algorithms course.
 
